@@ -6,3 +6,5 @@
 
 — Plans for finalizing the project —
 • Finalize and modify the project for the second sprint;
+
+1
